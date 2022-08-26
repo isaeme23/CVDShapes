@@ -1,5 +1,5 @@
-package edu.eci.cvds.patterns.shapes.concrete;
-import edu.eci.cvds.patterns.shapes.Shape;
+package edu.eci.cvds.Patterns.Shapes.Concrete;
+import edu.eci.cvds.Patterns.Shapes.Shape;
 
 public class Triangle implements Shape {
     public int getNumberOfEdges() {
