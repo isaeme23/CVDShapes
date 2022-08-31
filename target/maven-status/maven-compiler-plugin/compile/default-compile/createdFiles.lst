@@ -1,1 +1,9 @@
-edu\eci\cvds\App.class
+edu/eci/cvds/Patterns/Shapes/Concrete/Quadrilateral.class
+edu/eci/cvds/Patterns/Shapes/Concrete/Hexagon.class
+edu/eci/cvds/Patterns/Shapes/RegularShapeType.class
+edu/eci/cvds/Patterns/Shapes/Concrete/Pentagon.class
+edu/eci/cvds/Patterns/Shapes/ShapeMain.class
+edu/eci/cvds/Patterns/Shapes/Concrete/Triangle.class
+edu/eci/cvds/Patterns/Shapes/Shape.class
+edu/eci/cvds/Patterns/Shapes/ShapeFactory$1.class
+edu/eci/cvds/Patterns/Shapes/ShapeFactory.class
